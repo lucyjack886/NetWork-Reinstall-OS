@@ -948,7 +948,7 @@ setos() {
             case $distro in
             "centos")
                 case $releasever in
-                "7") ci_image=$ci_mirror/$releasever/images/CentOS-7-$basearch-GenericCloud.qcow2 ;;
+                "7") ci_image=$ci_mirror/$releasever/images/CentOS-7-$basearch-GenericCloud-2009.qcow2 ;;
                 "8" | "9") ci_image=$ci_mirror/$releasever-stream/$basearch/images/CentOS-Stream-GenericCloud-$releasever-latest.$basearch.qcow2 ;;
                 esac
                 ;;
