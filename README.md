@@ -27,13 +27,13 @@
 国外：
 
 ```bash
-curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh
+curl -O https://raw.githubusercontent.com/lucyjack886/NetWork-Reinstall-OS/main/reinstall.sh
 ```
 
 国内：
 
 ```bash
-curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh
+curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/lucyjack886/NetWork-Reinstall-OS/main/reinstall.sh
 ```
 
 ## 下载（当前系统是 Windows）
